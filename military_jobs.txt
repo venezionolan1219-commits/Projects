@@ -1,0 +1,34 @@
+Army,Infantry,Combat troop, often engaged on the front lines.
+Army,Tanker,Operates and maintains tanks.
+Army,Supply,Manages and operates supply hubs.
+Army,Artillery,Long-distance shelling against the enemy.
+Army,Intelligence,Gathers intelligence and counters large-scale threats.
+Army,Combat Engineer,Builds defenses and clears obstacles in battle zones.
+Army,Pilot,Produces dynamic aerial combat strategies.
+Army,Drone Operator,Operates unmanned aerial systems for surveillance.
+Army,Sniper,Engages high-value targets from long range.
+Army,Military Police,Handles law enforcement on military bases.
+Navy,Seaman,Performs basic duties.
+Navy,Corpsman,Special medical combat roles.
+Navy,Pilot,Flies various aircraft.
+Navy,Aviation Electrician,Maintains aircraft electrical systems.
+Navy,Surface Operations,Manages surface-based tactics.
+Navy,Cryptologic Technician,Intercepts and decodes enemy communications.
+Navy,Boatswain’s Mate,Handles ship maintenance and deck operations.
+Navy,Explosive Ordnance Disposal,Neutralizes explosives underwater and on land.
+Air Force,Pilot,Operates fixed-wing and rotary aircraft.
+Air Force,Data Analyst,Processes and analyzes cyber data.
+Air Force,Cyber Warfare,Engages in network defense.
+Air Force,Aircraft Engineer,Designs systems for aircraft.
+Air Force,AI Tech,Learning specialist using AI models for analytics.
+Air Force,Aircraft Mechanic,Installs and maintains aircraft.
+Air Force,Air Traffic Controller,Manages military aircraft movement.
+Air Force,Combat Controller,Supports special ops via air traffic guidance.
+Air Force,Satellite Systems,Repairs and manages satellite systems.
+Air Force,Cyber Intel Specialist,Monitors internet-based threats.
+Marines,Sniper,Engages long-distance targets.
+Marines,Artillery,Assault with heavy fire on battlefield.
+Marines,Amphibious Assault,Manages land-to-sea military operations.
+Marines,Recon,Conducts deep reconnaissance and special ops.
+Marines,Pilot,Flies fixed-wing or Marine Corps aircraft.
+Marines,Armor,Maintains and issues weapons and equipment.
